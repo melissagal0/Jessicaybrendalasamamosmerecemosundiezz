@@ -1,0 +1,19 @@
+Esta es la tarea numero 3
+
+Tarea 3 de Melissa, Karen y Diego 
+
+respuestas: 
+
+1. La abstracción se usa al definir una recta como dos puntos. Dichos puntos
+nos permiten calcular todo lo que hemos calculado sin necesidad de una construcción
+más complicada. La encapsulación la hicimos a través de los métodos y atributos
+de la clase.
+
+
+2. El encapsulamiento esta en crear la clase, cuando creamos la clase todo lo que pertenece a esta,
+    se queda ahi, en lugar de tener operaciones sueltas, todo se agrupa en esa clase.
+
+    La abstracción esta presente cuando se hacen las operaciones, por ejemplo en el str el usuario
+    no sabe que hay detrás de como se escribio el formato del numero complejo, otro ejemplo es en la suma
+    donde el usuario solo da los valores y no sabe como tal que esta haciendo la calculadora
+
