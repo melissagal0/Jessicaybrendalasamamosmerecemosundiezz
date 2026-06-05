@@ -1,0 +1,31 @@
+Número,Pregunta,A,B,C,D,Respuesta1,Respuesta2
+1,¿Cuál es la derivada de f(x) = x³?,2x,3x²,x²,3x,B,
+2,¿Cuál es el límite de sen(x)/x cuando x→0?,0,Indefinido,1,∞,C,
+3,¿Qué representa la derivada de una función en un punto?,El área bajo la curva,La pendiente de la recta tangente,El valor máximo,El promedio de la función,B,
+4,"Si f(x) = eˣ, ¿cuál es f'(x)?",xeˣ⁻¹,eˣ + 1,eˣ,e,C,
+5,¿Cuál es la derivada de f(x) = ln(x)?,ln(x)/x,x,1/x²,1/x,D,
+6,"¿Cuáles de las siguientes son reglas de derivación válidas?",Regla del cociente,Regla de Cramer,Regla de la cadena,Regla de Sarrus,A,C
+7,¿Cuál es la derivada de una constante?,1,0,La constante misma,Indefinida,B,
+8,"Si f(x) = sen(x), ¿cuál es f'(x)?",−cos(x),cos(x),−sen(x),tan(x),B,
+9,¿Qué condición es necesaria para que f sea diferenciable en x=a?,f(a) = 0,f debe ser continua en x=a,f'(a) = 1,f debe ser par,B,
+10,"¿Cuáles de las siguientes funciones tienen derivada igual a sí mismas?",sen(x),cos(x),eˣ,2eˣ,C,D
+11,¿Cuál es la derivada de f(x) = cos(x)?,sen(x),cos(x),−sen(x),−cos(x),C,
+12,"Si f(x) = xⁿ, la regla de la potencia dice que f'(x) es:",nxⁿ,nxⁿ⁻¹,(n−1)xⁿ,xⁿ⁻¹,B,
+13,"¿Cuáles de los siguientes puntos pueden ser extremos locales de f?",Puntos donde f'(x) = 0,Puntos donde f(x) = 0,Puntos donde f'(x) no existe,Puntos donde f(x) = 1,A,C
+14,¿Qué indica el Teorema del Valor Medio (TVM)?,Que toda función tiene máximo,Que existe c en (a‚b) con f'(c) = [f(b)−f(a)]/(b−a),Que f' siempre es positiva,Que f es constante,B,
+15,"¿Cuáles de las siguientes afirmaciones sobre la segunda derivada son correctas?",f''(x) > 0 indica concavidad hacia arriba,f''(x) > 0 indica concavidad hacia abajo,Un cambio de signo de f'' indica un punto de inflexión,f''(x) > 0 implica que f es creciente,A,C
+16,¿Cuál es la derivada de f(x) = tan(x)?,sec(x),sec²(x),cos²(x),−sec²(x),B,
+17,"¿Cuál es la regla de la cadena para (f∘g)'(x)?",f'(x)·g'(x),f(g'(x)),f'(g(x))·g'(x),f'(g(x)) + g'(x),C,
+18,"¿Cuáles de las siguientes son condiciones de un máximo local en x=c?",f'(c) = 0 y f''(c) < 0,f'(c) = 0 y f''(c) > 0,f'(c) cambia de + a −,f'(c) cambia de − a +,A,C
+19,¿Qué es una función creciente en un intervalo?,f'(x) < 0 en ese intervalo,f'(x) = 0 en ese intervalo,f(x₁) < f(x₂) siempre que x₁ < x₂,f(x) > 0 en ese intervalo,C,
+20,"¿Cuáles de las siguientes son propiedades de los límites?",lim[f+g] = lim f + lim g,lim[f·g] = lim f · lim g,lim[f/g] = lim f − lim g,lim[f²] = (lim f)³,A,B
+21,¿Qué es una asíntota vertical de f(x)?,Una recta horizontal y=k,Una recta x=a donde lim f(x)→±∞,El punto donde f(x)=0,La pendiente de f,B,
+22,"¿Cuáles de las siguientes derivadas son correctas?",d/dx[xⁿ] = nxⁿ⁻¹,d/dx[eˣ] = xeˣ⁻¹,d/dx[ln x] = 1/x,d/dx[sen x] = −cos x,A,C
+23,"Si f'(x) > 0 en (a,b), entonces f es:",Cóncava en (a‚b),Decreciente en (a‚b),Creciente en (a‚b),Constante en (a‚b),C,
+24,"¿Cuáles de los siguientes son tipos de discontinuidad?",Discontinuidad evitable,Discontinuidad de salto,Discontinuidad negativa,Discontinuidad infinita,A,B
+25,¿Qué es la derivada implícita?,Derivar solo respecto a y,Derivar ambos lados de una ecuación respecto a x tratando y como función de x,Derivar funciones definidas por partes,Aplicar la regla del cociente,B,
+26,"¿Cuáles de las siguientes afirmaciones sobre límites laterales son correctas?",lim x→a⁺ y lim x→a⁻ deben ser iguales para que exista el límite,El límite puede existir aunque f(a) no esté definida,Si lim x→a⁺ ≠ lim x→a⁻ el límite no existe,El límite siempre es igual a f(a),A,C
+27,¿Cuál es la derivada de f(x) = arctan(x)?,1/(1+x),1/(1+x²),−1/(1+x²),arctan(x)/x,B,
+28,"¿Cuáles de los siguientes enunciados sobre puntos de inflexión son correctos?",Ocurren donde f''(x) cambia de signo,Ocurren donde f'(x) = 0,No necesariamente coinciden con extremos locales,Ocurren donde f(x) = 0,A,C
+29,"Si f(x) = u(x)·v(x), la regla del producto dice que f'(x) es:",u'(x)·v'(x),u(x)·v'(x) − u'(x)·v(x),u'(x)·v(x) + u(x)·v'(x),u(x)/v'(x),C,
+30,"¿Cuáles de las siguientes condiciones garantizan que f es continua en x=a?",f(a) está definida,lim x→a f(x) existe,lim x→a f(x) = f(a),f'(a) existe,A,C
