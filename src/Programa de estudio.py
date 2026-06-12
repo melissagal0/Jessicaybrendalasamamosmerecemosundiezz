@@ -184,7 +184,7 @@ def mostrar_reporte(historial):
 # ── Punto de entrada ──────────────────────────────────
 MAX_INTENTOS = 3
 
-preguntas = cargar_preguntas("/Users/zarco/Downloads/Preguntas_-_Hoja_1.csv")
+preguntas = cargar_preguntas("../datos/preguntas.csv")
 historial = []
 
 for intento in range(1, MAX_INTENTOS + 1):
